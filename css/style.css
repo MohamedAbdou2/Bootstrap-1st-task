@@ -1,3 +1,12 @@
+:root
+{
+ --main-color: #4726e1;
+}
+
+.text-main{
+  color: var(--main-color)!important;
+}
+
 body {
     font-family: "Segoe UI", Arial, sans-serif;
   }
